@@ -10,6 +10,7 @@
 
 # misc
 /.sass-cache
+.env
 /connect.lock
 /coverage/*
 /libpeerconnection.log
